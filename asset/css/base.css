@@ -1,0 +1,39 @@
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #212121;
+    --primary-color: #3fd0d4;
+    --header-height: 80px;
+}
+
+*, *::after, *::before {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.no-shadow {
+    box-shadow: none !important;
+}
+
+.header-item--active {
+    background-position: 0 100% !important;
+}
+
+.no-wrap {
+    flex-wrap: nowrap !important;
+}
