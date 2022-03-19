@@ -713,35 +713,35 @@
 
 @keyframes BG {
     0% {
-        background-image: url(/asset/img/header/header-img-1.jpg);
+        background-image: url(/winter-holiday/asset/img/header/header-img-1.jpg);
         background-size: 100% 100%;
     }
     25% {
-        background-image: url(/asset/img/header/header-img-1.jpg);
+        background-image: url(/winter-holiday/asset/img/header/header-img-1.jpg);
         background-size: 122% 122%;
     }
     25.01% {
-        background-image: url(/asset/img/header/header-img-2.jpg);
+        background-image: url(/winter-holiday/asset/img/header/header-img-2.jpg);
         background-size: 100% 100%;
     }
     50% {
-        background-image: url(/asset/img/header/header-img-2.jpg);
+        background-image: url(/winter-holiday/asset/img/header/header-img-2.jpg);
         background-size: 122% 122%;
     }
     50.01% {
-        background-image: url(/asset/img/header/header-img-1.jpg);
+        background-image: url(/winter-holiday/asset/img/header/header-img-1.jpg);
         background-size: 100% 100%;
     }
     75% {
-        background-image: url(/asset/img/header/header-img-1.jpg);
+        background-image: url(/winter-holiday/asset/img/header/header-img-1.jpg);
         background-size: 122% 122%;
     }
     75.01% {
-        background-image: url(/asset/img/header/header-img-2.jpg);
+        background-image: url(/winter-holiday/asset/img/header/header-img-2.jpg);
         background-size: 100% 100%;
     }
     100% {
-        background-image: url(/asset/img/header/header-img-2.jpg);
+        background-image: url(/winter-holiday/asset/img/header/header-img-2.jpg);
         background-size: 122% 122%;
     }
 }
